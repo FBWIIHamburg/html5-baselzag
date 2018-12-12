@@ -21,11 +21,11 @@ body {
     background-color: white;
   }
   
-  menu ul{
+  nav ul{
     padding: 0;
   }
   
-  menu ul li{
+  nav ul li{
     display: inline;
     margin: 5px;
   }
