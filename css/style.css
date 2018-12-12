@@ -4,19 +4,23 @@ body {
   }
   
   header, footer {
-    padding: 10px;
+    padding-top:  10px;
+    padding-bottom: 10px;
     color: white;
     background-color: black;
     padding-left: 10%;
-    padding-right: 10%
+    padding-right: 10%;
   }
   
   section {
     margin: 5px;
-    padding: 10px;
+   
     background-color: lightgrey;
     padding-left: 10%;
     padding-right: 10%;
+    padding-top:  10px;
+    padding-bottom: 10px;
+   
   }
   
   article {
